@@ -1,9 +1,5 @@
 # Family Finance
 
-[![Build Status](https://travis-ci.org/farminf/FamilyFinance.svg?branch=master)](https://travis-ci.org/farminf/FamilyFinance)
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/farminf/FamilyFinance/)
-
 _Bootstrapped by [create-react-app](https://github.com/facebook/create-react-app)_
 
 [FamilyFinance Webapp](http://familyfinance.xyz)
